@@ -1,1 +1,2 @@
 This is Squish first git project!
+Uppdaterad text
